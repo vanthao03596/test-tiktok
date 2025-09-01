@@ -98,8 +98,16 @@ async def update_cookie_api(request: Request,
             return ResponseModel(code=200,
                                 router=request.url.path,
                                 data={"message": f"Cookie for {service} will be updated (not implemented yet)"})
+        elif service == "bilibili":
+            # 这里可以添加Bilibili的cookie更新逻辑
+            # from crawlers.bilibili.web.web_crawler import BilibiliWebCrawler
+            # bilibili_crawler = BilibiliWebCrawler()
+            # await bilibili_crawler.update_cookie(cookie)
+            return ResponseModel(code=200,
+                                router=request.url.path,
+                                data={"message": f"Cookie for {service} will be updated (not implemented yet)"})
         else:
-            raise ValueError(f"Service '{service}' is not supported. Supported services: douyin, tiktok")
+            raise ValueError(f"Service '{service}' is not supported. Supported services: douyin, tiktok, bilibili")
     except Exception as e:
         status_code = 400
         detail = ErrorResponseModel(code=status_code,
