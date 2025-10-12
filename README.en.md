@@ -15,28 +15,25 @@
 
 ## Sponsors
 
-These sponsors have paid to place them here,**Doinan_tics_download_api**The project will always be free and open source. If you wish to be a sponsor of this project, please check out my[GitHub Sponsor Page](https://github.com/sponsors/evil0ctal)。
+These sponsors have paid to place them here, **Douyin_TikTok_Download_API** project will always be free and open source. If you wish to be a sponsor of this project, please check out my [GitHub Sponsor Page](https://github.com/sponsors/evil0ctal).
 
-<div align="center">
-    <a href="https://www.tikhub.io/" target="_blank">
-        <img src="https://tikhub.io/wp-content/uploads/2024/11/Main-Logo.webp" width="100" alt="TikHub.io - Global Social Data & API Marketplace">
-    </a>
-    <div>
-        <h2><b>TikHub.io</b></h2>
-        <p>Your Ultimate Social Media Data & API Marketplace</p>
-        <p>
-            Professional data solutions for Douyin, Xiaohongshu, TikTok, Instagram, YouTube, 
-            Twitter, and more.<br>
-            Real-time Data | Flexible APIs | Seamless Integration | Competitive Pricing with Discounts
-        </p>
-        <p>
-            <b>Discover TikHub.io Marketplace</b><br>
-            Buy and sell custom APIs, services, and social media solutions.<br>
-            Join a thriving ecosystem of developers, businesses, and content creators.
-        </p>
-        <p><em>Trusted by leading global influencer marketing and social media intelligence platforms</em></p>
-    </div>
-</div>
+<p align="center">
+  <a href="https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad">
+    <img style="border-radius:20px" width="845" height="845" alt="TikHub IO_Banner en" src="https://github.com/user-attachments/assets/86905c45-557f-4459-be13-93debddf2bdc">
+  </a>
+</p>
+
+[TikHub](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad) provides over 700 endpoints for accessing and analyzing data from 14+ social media platforms — including videos, users, comments, stores, products, trends, and more, offering a one-stop solution for all your data access and analysis needs.
+
+Get free credits through daily check-ins. You can use my referral link: [https://user.tikhub.io/users/signup?referral_code=1wRL8eQk](https://user.tikhub.io/users/signup?referral_code=1wRL8eQk&utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad) or use referral code: `1wRL8eQk`. Register and recharge to get `$2` credit.
+
+[TikHub](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad) offers the following services:
+
+- Rich data endpoints
+- Free daily check-in credits
+- High-quality API service
+- Website: [https://tikhub.io/](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad)
+- GitHub: [https://github.com/TikHubIO/](https://github.com/TikHubIO/)
 
 ## 👻 Introduction
 
@@ -58,7 +55,9 @@ _Download videos that are prohibited from being downloaded, perform data analysi
 
 ## 🔖TikHub.io API
 
-[TikHub.io](https://api.tikhub.io/)It is an API platform that provides various public data interfaces including Douyin and TikTok. If you want to support it[Doinan_tics_download_api](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)We strongly recommend that you choose the project development[TikHub.io](https://api.tikhub.io/)。
+[TikHub.io](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad) provides over 700 endpoints for accessing and analyzing data from 14+ social media platforms — including videos, users, comments, stores, products, trends, and more, offering a one-stop solution for all your data access and analysis needs.
+
+If you want to support the development of [Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API) project, we strongly recommend that you choose [TikHub.io](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad).
 
 #### Features:
 
@@ -68,7 +67,7 @@ Simplify the usage process and quickly carry out development work using the enca
 
 > 💰 Cost Advantage
 
-There is no preset package limit, no monthly usage threshold, all consumption is billed instantly based on the actual usage, and is charged step by step based on the user's daily request volume. At the same time, you can check in in the user's background through daily check-in, and these free amounts will not expire.
+There is no preset package limit, no monthly usage threshold, all consumption is billed instantly based on the actual usage, and is charged step by step based on the user's daily request volume. At the same time, you can get free credits through daily check-in in the user background, and these free credits will not expire.
 
 > ⚡️ Quick support
 
@@ -78,12 +77,16 @@ We have a huge Discord community server where administrators and other users wil
 
 Some of the source code of TikHub will be open sourced on Github and will sponsor some open source projects.
 
-#### Link:
+#### Registration & Usage:
 
--   Githubub:[TIKHOB GITUB](https://github.com/TikHubIO)
--   Discord:[Tachub](https://discord.com/invite/aMEAS8Xsvz)
--   Register:[TikHub singnup](https://beta-web.tikhub.io/en-us/users/signup)
--   API Docs:[TickHub API Docs](https://api.tikhub.io/)
+Get free credits through daily check-ins. You can use my referral link: [https://user.tikhub.io/users/signup?referral_code=1wRL8eQk](https://user.tikhub.io/users/signup?referral_code=1wRL8eQk&utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad) or use referral code: `1wRL8eQk`. Register and recharge to get `$2` credit.
+
+#### Related Links:
+
+- Website: [https://tikhub.io/](https://tikhub.io/?utm_source=github.com/Evil0ctal/Douyin_TikTok_Download_API&utm_medium=marketing_social&utm_campaign=retargeting&utm_content=carousel_ad)
+- API Docs: [https://api.tikhub.io/docs](https://api.tikhub.io/docs)
+- GitHub: [https://github.com/TikHubIO/](https://github.com/TikHubIO/)
+- Discord: [https://discord.com/invite/aMEAS8Xsvz](https://discord.com/invite/aMEAS8Xsvz)
 
 ## 🖥 Demo site: I am very fragile... Please do not press test (·•᷄ࡇ•᷅ )
 
